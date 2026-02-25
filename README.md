@@ -1,0 +1,2 @@
+# autopsy--autonomous-deep-learning-trading-system--adlts-
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Deep Learning Trading System (ADLTS)' FAILED.MASTER REFLECTION: Worker completed 'Autonomous Deep Learning Trading System (ADLTS)'.ORIGINAL ERROR LOGS:      """Load configuration from JSON file"""        try:            with open(config_path, 'r') as f:                config_data = json.load(f) 
